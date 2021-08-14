@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qi Yu"
   avatar           : "QiYu.jpeg"
-  bio              : "Postdoctoral associate at Yale University"
-  location         : "New Haven"
+  bio              : "Postdoctoral associate in Sharon Hammes-Schiffer's group"
+  location         : "Yale University"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=9JiUEQcAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Qi-Yu-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,13 +102,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
