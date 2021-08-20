@@ -8,27 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Theoretical and Computational Chemistry
-======
 About Me:
+======
 
 Education
-======
-* B.S. in Chemical Physics, University of Science and Technology of China, 2014
-* Ph.D in Theoretical and Computational Chemistry, Emory University, 2019 
+------
+* B.S. in Chemical Physics, University of Science and Technology of China, 2014, Advisor: Shanxi Tian
+* Ph.D in Theoretical and Computational Chemistry, Emory University, 2019, Advisor: [Joel M. Bowman](https://scholarblogs.emory.edu/bowman/)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Professional Experience
+------
+* 2019.10-present: Postdoctoral Associate
+  * Yale University
+  * Supervisor: Professor [Sharon Hammes-Schiffer](https://www.hammes-schiffer-group.org/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2013.5-2013.8: Visiting Student
+  * Dalian Institute of Chemical Physics, CAS, China
+  * Supervisor: Professor [Donghui Zhang](http://people.ucas.ac.cn/~zhangdh?language=en)
+
+
 Skills
 ======
 * Skill 1
