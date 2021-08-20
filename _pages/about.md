@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+About me:
+------
+
 Education
 ------
 * 2010.9-2014.6: University of Science and Technology of China
