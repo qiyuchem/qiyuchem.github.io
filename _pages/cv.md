@@ -21,12 +21,14 @@ Professional Experience
 
 Education
 ------
-* 2010.9---2014.6: University of Science and Technology of China
-  * B.S. in Chemical Physics
-  * Supervisor: Professor [Shanxi Tian](http://staff.ustc.edu.cn/~sxtian/)
 * 2014.9---2019.8: Emory University
   * Ph.D in Theoretical and Computational Chemistry
   * Supervisor: Professor [Joel M. Bowman](https://scholarblogs.emory.edu/bowman/)
+  
+* 2010.9---2014.6: University of Science and Technology of China
+  * B.S. in Chemical Physics
+  * Supervisor: Professor [Shanxi Tian](http://staff.ustc.edu.cn/~sxtian/)
+
 
 
   
