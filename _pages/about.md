@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[My image](https://github.com/qiyuchem/qiyuchem.github.io/tree/master/images/QiYu.jpeg)
+![QiYu](https://user-images.githubusercontent.com/57276712/130334507-d070c068-5084-4f28-849e-d75009746c10.jpeg)
 
 About me:
 ======
