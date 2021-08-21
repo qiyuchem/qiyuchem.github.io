@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "About me"
-permalink: /cv/
+permalink: /About me/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-About me:
-======
 
 Education
 ------
