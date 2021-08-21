@@ -9,51 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+About me:
+======
+
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+------
+* 2010.9---2014.6: University of Science and Technology of China
+  * B.S. in Chemical Physics
+  * Supervisor: Professor [Shanxi Tian](http://staff.ustc.edu.cn/~sxtian/)
+* 2014.9---2019.8: Emory University
+  * Ph.D in Theoretical and Computational Chemistry
+  * Supervisor: Professor [Joel M. Bowman](https://scholarblogs.emory.edu/bowman/)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Professional Experience
+------
+* 2019.10---present: Yale University
+  * Postdoctoral Associate
+  * Supervisor: Professor [Sharon Hammes-Schiffer](https://www.hammes-schiffer-group.org/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2013.5---2013.8: Dalian Institute of Chemical Physics, Chinese Academy of Science, China
+  * Visiting Student
+  * Supervisor: Professor [Donghui Zhang](http://people.ucas.ac.cn/~zhangdh?language=en)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
