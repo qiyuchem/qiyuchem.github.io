@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Qi Yu"
-  avatar           : "QiYu.jpeg"
+  avatar           : #"QiYu.jpeg"
   bio              : "Postdoctoral associate in Sharon Hammes-Schiffer's group"
   location         : "Yale University"
   employer         :
