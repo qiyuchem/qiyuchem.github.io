@@ -15,7 +15,7 @@ Nuclear quantum effects, such as hydrogen tunneling effect, is ubiquitous in che
 
 Linear and Nonlinear Vibrational Spectra of Strongly Anharmonic Molecular Systems 
 ------
-<img src="https://user-images.githubusercontent.com/57276712/130342623-69e6ee51-e483-4b5f-b881-048a014997f6.png" width="800" height="500" />
+<img src="https://user-images.githubusercontent.com/57276712/130343885-5fde8d5b-2d6e-4511-9b25-ee6831af358e.png" width="800" height="500" />
 
 Vibrational spectra is a powerful tool to decipher the geometrical and dynamical information of molecular systems. However, for strongly anharmonic systems like protonated water clusters, it remains a challenge for theory to identify the origin of their surprisingly red-shifted or blue-shifted OH stretch features, together with their lineshapes. We successfully resolved the above problems for vibrational spectra of difference sizes of protonated water clusters, applying vibrational self-consistent field/virtual state configuration interaction (VSCF/VCI) method. We further extended this method to the 1D/2D IR spectra calculation of strongly anharmonic aqueous proton and short strong H-bond systems (FHF<sup>+</sup>). Our results achieve excellent agreement with experiemntal measurements.
 
