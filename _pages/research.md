@@ -7,8 +7,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-
-Professional Experience
+Research
 ------
 * 2019.10---present: Yale University
   * Postdoctoral Associate
