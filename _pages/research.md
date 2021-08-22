@@ -9,7 +9,7 @@ author_profile: true
 
 Multicomponent Density Functional Theory
 ------
-<img src="https://github.com/qiyuchem/qiyuchem.github.io/files/7026571/Figure3.pdf" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/57276712/130341918-68cb0d40-c61c-498f-b4ca-246e3a1496b1.png" width="400" height="300" />
 
 * 2019.10---present: Yale University
   * Postdoctoral Associate
