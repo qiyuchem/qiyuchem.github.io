@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-
-
+You can download my [CV](https://scholar.google.com/citations?user=9JiUEQcAAAAJ&hl=en)
 Professional Experience
 ------
 * 2019.10---present: Yale University
