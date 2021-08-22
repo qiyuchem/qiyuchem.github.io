@@ -7,5 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="https://user-images.githubusercontent.com/57276712/130334507-d070c068-5084-4f28-849e-d75009746c10.jpeg" width="500" height="500" />
+<img src="https://github.com/qiyuchem/qiyuchem.github.io/blob/master/images/QiYu.jpeg" width="500" height="500" />
 
