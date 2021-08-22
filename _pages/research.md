@@ -21,7 +21,7 @@ Vibrational spectra is a powerful tool to decipher the geometrical and dynamical
 
 Machine Learning Many-body Potential Energy Surface
 ------
-<img src="https://user-images.githubusercontent.com/57276712/130343393-c002d818-d4e1-4b05-899b-0c1b4acdadc8.png" width="800" height="500" />
+<img src="https://user-images.githubusercontent.com/57276712/130343806-794195e1-2416-4328-b679-9f035b7a1f4e.png" width="800" height="400" />
 
 To investigate important properties of molecular systems, such as vibrational spectra and dynamical process, highly accurate potential energy surface (PES) is usually required due to its high accuracy and cheap computational cost. Thus, developing highly accurate potential energy surface for gas-phase and condensed phase systems is a hot but challenging research direction. We focused on developing different machine learning methods, including permutational invariant polynomial (PIP), Gaussian process regression (GPR) and Neural Network (NN), to tackle the PES construction problem. For large molecular systems like water and hydrated proton, we developed an universal potential energy model which can be applied for arbitrary sizes of water molecules utilizing the idea of many body expansion. This strategy has been proved to be successful for a variety of tests. Our constructed PES for water and hydrated proton can provide cheap calculation of potential energy at CCSD(T)/aVTZ level of accuracy. Such methods have also been applied to other systems including FHF<sup>+</sup>(H<sub>2</sub>O)<sub>n</sub>. 
 
