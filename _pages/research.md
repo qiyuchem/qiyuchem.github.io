@@ -7,8 +7,10 @@ author_profile: true
 ---
 {% include base_path %}
 
-Research
+Multicomponent Density Functional Theory
 ------
+
+
 * 2019.10---present: Yale University
   * Postdoctoral Associate
   * Supervisor: Professor [Sharon Hammes-Schiffer](https://www.hammes-schiffer-group.org/)
