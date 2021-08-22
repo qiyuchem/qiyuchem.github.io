@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-You can download my [CV](https://github.com/qiyuchem/qiyuchem.github.io/blob/master/files/CV_Qi.pdf)
+
+To know more about me, you can download my [CV](https://github.com/qiyuchem/qiyuchem.github.io/blob/master/files/CV_Qi.pdf)
+
 Professional Experience
 ------
 * 2019.10---present: Yale University
