@@ -8,8 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-To know more about me, you can download my [CV](https://github.com/qiyuchem/qiyuchem.github.io/blob/master/files/CV_Qi.pdf)
-
 Professional Experience
 ------
 * 2019.10---present: Yale University
