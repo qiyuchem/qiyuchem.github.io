@@ -9,9 +9,10 @@ author_profile: true
 
 Multicomponent Density Functional Theory
 ------
+* (1) Nucler-Electronic Orbital Multistate Density Functional Theory
 <img src="https://user-images.githubusercontent.com/57276712/130341918-68cb0d40-c61c-498f-b4ca-246e3a1496b1.png" width="400" height="300" />
 
-* 2019.10---present: Yale University
+
   * Postdoctoral Associate
   * Supervisor: Professor [Sharon Hammes-Schiffer](https://www.hammes-schiffer-group.org/)
 
